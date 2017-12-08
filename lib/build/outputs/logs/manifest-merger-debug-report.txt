@@ -1,0 +1,9 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/putraxor/Desktop/Outstagram/lib/AndroidManifest.xml:2:1-3:12
+INJECTED from /home/putraxor/Desktop/Outstagram/lib/AndroidManifest.xml:2:1-3:12
+INJECTED from /home/putraxor/Desktop/Outstagram/lib/AndroidManifest.xml:2:1-3:12
+	package
+		ADDED from /home/putraxor/Desktop/Outstagram/lib/AndroidManifest.xml:2:11-30
+		INJECTED from /home/putraxor/Desktop/Outstagram/lib/AndroidManifest.xml
+		INJECTED from /home/putraxor/Desktop/Outstagram/lib/AndroidManifest.xml

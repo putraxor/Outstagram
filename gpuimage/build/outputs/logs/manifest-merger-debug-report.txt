@@ -1,0 +1,21 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml:2:1-4:12
+INJECTED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml:2:1-4:12
+INJECTED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml:2:1-4:12
+INJECTED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml:2:1-4:12
+INJECTED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml:2:1-4:12
+INJECTED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml:2:1-4:12
+INJECTED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml:2:1-4:12
+	package
+		ADDED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml:3:5-48
+		INJECTED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml
+		INJECTED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml
+		ADDED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml:2:1-4:12
+		INJECTED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml
+		ADDED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml:2:1-4:12
+		INJECTED from /home/putraxor/Desktop/Outstagram/gpuimage/AndroidManifest.xml
